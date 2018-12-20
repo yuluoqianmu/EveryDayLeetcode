@@ -9,6 +9,9 @@ leetcode第160题<br/>
 在节点 c1 开始相交。<br/>
 
 示例 1：<br/>
+
+![example_2](https://github.com/yuluoqianmu/EveryDayLeetcode/blob/master/2018-12-21/example_2.png?raw=true)
+
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3<br/>
 输出：Reference of the node with value = 8<br/>
 输入解释：相交节点的值为 8 （注意，如果两个列表相交则不能为 0）。<br/>
