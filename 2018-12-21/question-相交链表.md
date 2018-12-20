@@ -29,6 +29,9 @@ leetcode第160题<br/>
  
 
 示例 3：<br/>
+
+![example_4](https://github.com/yuluoqianmu/EveryDayLeetcode/blob/master/2018-12-21/example_4.png?raw=true)
+
 输入：intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2<br/>
 输出：null<br/>
 输入解释：从各自的表头开始算起，链表 A 为 [2,6,4]，链表 B 为 [1,5]。<br/>
