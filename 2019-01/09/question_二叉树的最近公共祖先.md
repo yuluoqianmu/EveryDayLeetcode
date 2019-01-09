@@ -9,7 +9,7 @@ leecode第236题<br/>
 
 例如，给定如下二叉树:  root = [3,5,1,6,2,0,8,null,null,7,4]<br/>
 
-
+![img](https://github.com/yuluoqianmu/EveryDayLeetcode/blob/master/2019-01/09/binarytree.png?raw=true)
 示例 1:<br/>
 输入: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1<br/>
 输出: 3<br/>
