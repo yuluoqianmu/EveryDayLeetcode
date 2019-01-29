@@ -17,11 +17,8 @@ leetcode第756题<br/>
 输出: true<br/>
 解析:<br/>
 可以堆砌成这样的金字塔:<br/>
-    A
-   / \
-  D   E
- / \ / \
-X   Y   Z
+
+![img](https://github.com/yuluoqianmu/EveryDayLeetcode/blob/master/2019-01/31/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190129103412.png?raw=true)
 
 因为符合('X', 'Y', 'D'), ('Y', 'Z', 'E') 和 ('D', 'E', 'A') 三种规则。<br/>
 
